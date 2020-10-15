@@ -44,6 +44,5 @@ EMAPで読み込む最終ファイルは、以下の２種類です。
 ├── FBX                 SHSenkyoku, SHKaihyojo
 ├── SCRIPTS             Output_Python_Script.jsx, import_to_maya.py
 ├── SHAPE               全てのファイル
-├── SVG                 SHSenkyoku, SHKaihyojo
-└── README.md
+└── SVG                 SHSenkyoku, SHKaihyojo
 ```
